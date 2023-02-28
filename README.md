@@ -25,8 +25,8 @@ Voting Match is a website that allows users to find candidates that are related 
 * Started in creating sketches of UI
 * To understand our competitors strengths and weakness
 * Use the competitor weakness as a focus point to improve our product
-* To understand our potential demographics for our product
-* To understand the flow of the User Experience of the app
+* To have an idea of our potential demographics for our product
+* To have an idea of the flow of the User Experience of the app
 
 [Full phase I report](phaseI/)
 
